@@ -1,0 +1,2 @@
+# Crypto-hunter
+New project
